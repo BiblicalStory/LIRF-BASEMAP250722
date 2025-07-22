@@ -1,25 +1,21 @@
 ---
-
-title: "(AIS) The Literary Argument of Deuteronomy"
-
-author: "Samuel Andrew Baylis"
-
+title: (AIS) The Literary Argument of Deuteronomy
+author: Samuel Andrew Baylis
 model (AIS): GPT-4
-
-framework_cell: "OBS_AR_MT_3/5_PERM_13/15 → OBS_AR_SM_5/5_PERM_13/15"
-
-book: "Deuteronomy"
-
-genre: "Literary-Theological Argument"
-
-project: "LIRF August 2025 Prototype"
-
-summary_type: "Cell Summary"
-
-date: "2021-10-01"
-
-keywords: ["Voice from the mountain", "self-righteousness", "idolatry", "circumcision of heart", "assembly of the LORD", "greater Moses", "New Exodus"]
-
+framework_cell: OBS_AR_MT_3/5_PERM_13/15 → OBS_AR_SM_5/5_PERM_13/15
+book: Deuteronomy
+genre: Literary-Theological Argument
+project: LIRF August 2025 Prototype
+summary_type: Cell Summary
+date: ""
+keywords:
+  - Voice from the mountain
+  - self-righteousness
+  - idolatry
+  - circumcision of heart
+  - assembly of the LORD
+  - greater Moses
+  - New Exodus
 ---
 
   
