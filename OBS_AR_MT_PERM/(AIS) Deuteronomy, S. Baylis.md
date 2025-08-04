@@ -4,7 +4,7 @@ author: Samuel Andrew Baylis
 model (AIS): GPT-4
 framework_cell: OBS_AR_MT_3/5_PERM_13/15 → OBS_AR_SM_5/5_PERM_13/15
 book: Deuteronomy
-genre: Literary-Theological Argument
+genre: Literary-Theological Argument Model
 project: LIRF August 2025 Prototype
 summary_type: Cell Summary
 date: ""
