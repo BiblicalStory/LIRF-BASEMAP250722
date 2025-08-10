@@ -18,13 +18,9 @@ keywords:
   - New Exodus
 ---
 
-  
-
 ## 📘 Summary of the Argument
 
-  
-
-Deuteronomy is a prophetic retelling and theological re-framing of Israel’s wilderness journey, casting the nation’s story as one of persistent rebellion—met at every turn by divine grace, discipline, and promise. It unfolds in a chiastic literary structure, with the center dedicated to the **Assembly of the LORD**—a vision of consecrated community that stands between a holy God and a broken world.
+Deuteronomy is a prophetic retelling and theological re-framing of Israel’s wilderness journey, casting the nation’s story as one of persistent rebellion—met at every turn by divine grace, discipline, and promise. It unfolds in a mirror/ring literary structure, with the center dedicated to the **Assembly of the LORD**—a vision of consecrated community that stands between a holy God and a broken world.
 
   
 
