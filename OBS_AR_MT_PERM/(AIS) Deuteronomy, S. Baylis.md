@@ -1,7 +1,7 @@
 ---
 title: (AIS) The Literary Argument of Deuteronomy
 author: Samuel Andrew Baylis
-model (AIS): GPT-4
+model (AIS): GPT-4 and GPT5
 framework_cell: OBS_AR_MT_3/5_PERM_13/15 → OBS_AR_SM_5/5_PERM_13/15
 book: Deuteronomy
 genre: Literary-Theological Argument Model
@@ -17,6 +17,9 @@ keywords:
   - greater Moses
   - New Exodus
 ---
+NOTICE: The following is a mostly-AI generated summary (AIS) of S. Baylis' Deuteronomy Argument. This is a computer model to be used in the overall model of the framework and is thus highly experimental. To use this work in your research please cite it in the following manner:  
+
+Baylis, Samuel Andrew and GPT4/5. "(AIS) The Literary Argument of Deuteronomy." BiblicalStory L-IRF, 2025.
 
 ## 📘 Summary of the Argument
 
@@ -311,3 +314,67 @@ Deuteronomy is the final breath of the Torah, declaring with both sorrow and hop
   
 
 `#Deuteronomy #LIRF #Moses #GreaterMoses #NewExodus #Torah #AssemblyOfTheLORD #CircumcisionOfHeart #BiblicalStory #LAMBFramework #LiteraryArgument`
+
+
+
+## 📑 Endnotes
+
+1. Idolatry and self-righteousness are two sides of the same coin, since if one went to idolatry, they were denying the humility that comes from the tabernacle process (i.e., the faith of Abel) and the uniqueness of access that this God requires through that which is rooted in the Seed.  
+
+2. The dynamic of “serving” was pointed out to this author by K. Wong.  
+
+3. The substitutionary dynamic in Abel’s offering was brought to this author’s attention by F. Fenby.  
+
+4. Samuel A. Baylis, “Biblical Theology of Luke–Acts: The ‘Very Present Help’” (unpublished paper, BE8221 Seminar on the Gospels and Acts, Dallas Theological Seminary, 2023).  
+
+5. The linkage between bondage and unleavened bread was pointed out to this author by E. Yunghans.  
+
+6. What is recorded in Deuteronomy is a summary of that which was prescribed in Leviticus 11, which has additional requirements; for instance, animals with paws are not considered clean and cannot even be touched without becoming ceremonially unclean.  
+
+7. For various views on clean/unclean held by scholarship, see Michael A. Grisanti, “Deuteronomy,” in *Expositor’s Bible Commentary: Numbers–Ruth* (Revised Edition), ed. Tremper Longman III and David E. Garland, vol. 2 (Grand Rapids, MI: Zondervan, 2012).  
+
+8. This was pointed out to the author by D. Brown.  
+
+9. Samuel A. Baylis, “The Argument of the Book of Genesis” (coursework assignment, Dallas Theological Seminary, 2021); Samuel A. Baylis, “The Argument of the Book of Exodus” (class assignment, Dallas Theological Seminary, 2021).  
+
+10. Samuel A. Baylis, “The Argument of the Book of Numbers” (coursework assignment, Dallas Theological Seminary, 2023).  
+
+11. Samuel A. Baylis, “The Argument of the Book of Leviticus” (coursework assignment, Dallas Theological Seminary, 2021).  
+
+12. C. Baylis has linked the concept of “blessing” to the knowledge of God. D. Klingler further asserts that “blessing” can only be related to God’s interaction in one’s life and cannot be strictly tied to temporal, physical blessing. See David R. Klingler, “Blessings and Curses: Whose Definitions are We Using Anyway?,” WordMP3.com: Evangelical Theological Society, 2021, https://www.wordmp3.com/details.aspx?id=40435.  
+
+13. There is some question as to who God is taking care of in Deut. 2:7. The “you” that Moses is addressing could be the second generation, but the “you” mentioned in 1:41 was certainly the first generation. It is the position of this author that God continued to provide for Israel, including the first “evil” generation, even while that generation was dying.  
+
+14. For a definition of the term “anti-romance,” see Reg Grant, “The Validity of Pregeneric Plot Structure in Ruth as a Key to Interpretation” (PhD diss., Dallas Theological Seminary, 1988).  
+
+15. Samuel A. Baylis, “The Argument of the Book of Leviticus” (coursework assignment, Dallas Theological Seminary, 2021).  
+
+16. David R. Klingler, “Genesis 3:16; 4:1, and 4:7: A Case of Mistaken Identities?” (paper presented at the Evangelical Theological Society Annual Meeting, Denver, CO, November 16, 2022).  
+
+17. Note that the center section of Leviticus likewise contains the statement, “You shall love your neighbor as yourself; I AM THE LORD” (Lev. 19:18).  
+
+18. See introduction section of this document for the quote. C. Baylis has linked the concept of “blessing” to the knowledge of God. D. Klingler, “Blessings and Curses: Whose Definitions are We Using Anyway?”.
+
+---
+
+## 📚 Bibliography
+
+Baylis, Samuel A. “The Argument of the Book of Deuteronomy.” Class assignment, Dallas Theological Seminary, 2023.
+
+Baylis, Samuel A. “The Argument of the Book of Exodus.” Class assignment, Dallas Theological Seminary, 2021.  
+
+———. “The Argument of the Book of Genesis.” Coursework assignment, Dallas Theological Seminary, 2021.  
+
+———. “The Argument of the Book of Leviticus.” Coursework assignment, Dallas Theological Seminary, 2021.  
+
+———. “The Argument of the Book of Numbers.” Coursework assignment, Dallas Theological Seminary, 2023.  
+
+———. “Biblical Theology of Luke–Acts: The ‘Very Present Help.’” Unpublished paper, BE8221 Seminar on the Gospels and Acts, Dallas Theological Seminary, 2023.  
+
+Grant, Reg. “The Validity of Pregeneric Plot Structure in Ruth as a Key to Interpretation.” PhD diss., Dallas Theological Seminary, 1988.  
+
+Grisanti, Michael A. “Deuteronomy.” In *Expositor’s Bible Commentary: Numbers–Ruth* (Revised Edition), edited by Tremper Longman III and David E. Garland, vol. 2. Grand Rapids, MI: Zondervan, 2012.  
+
+Klingler, David R. “Blessings and Curses: Whose Definitions are We Using Anyway?” WordMP3.com: Evangelical Theological Society, 2021. https://www.wordmp3.com/details.aspx?id=40435.  
+
+———. “Genesis 3:16; 4:1, and 4:7: A Case of Mistaken Identities?” Paper presented at the Evangelical Theological Society Annual Meeting, Denver, CO, November 16, 2022.  
