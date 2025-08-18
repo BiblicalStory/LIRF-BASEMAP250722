@@ -148,7 +148,7 @@ This section directly mirrors the next-to-last section (27–32), where Israel's
 
   
 
-At the **heart of the book**, and its chiastic structure, lies the **“assembly of the LORD”** — the *קהל* — a holy people gathered by God’s Word, purified for presence, and defined not by their strength but by God's nearness. This section reflects the covenantal goal first articulated in **Exodus 19**: a **kingdom of priests**, consecrated to **mediate** God's holiness to the world.
+At the **heart of the book**, and its mirror/ring structure, lies the **“assembly of the LORD”** — the *קהל* — a holy people gathered by God’s Word, purified for presence, and defined not by their strength but by God's nearness. This section reflects the covenantal goal first articulated in **Exodus 19**: a **kingdom of priests**, consecrated to **mediate** God's holiness to the world.
 
   
 
