@@ -191,11 +191,11 @@ Excursus: The Olivet Discourse (Matthew 24–25)
 
 The Olivet Discourse stands at the summit of Matthew’s rising action, immediately following the narrative’s emphasis on the delay period (cf. Matt. 22:1–14; 23:29–39). Where the parables had already prepared the disciples for a protracted waiting, Jesus now provides the climactic prophetic framework by which that delay is oriented toward the end.
 
-1. Be Ready in the Delay — The call to “be ready” functions first for the apostles, who stand as the remnant entrusted with the Word. They are warned that the tribulation could begin at any time, initiated by the "one will be taken [for rescue] and one will be left [for entering the tribulation]." Their own readiness secures the testimony of God’s Word throughout the entire delay period.
+1. Be Ready in the Delay (24:36–51) — The call to “be ready” functions first for the apostles, who stand as the remnant entrusted with the Word. They are warned that the tribulation could begin at any time, initiated by the "one will be taken [for rescue] and one will be left [for entering the tribulation]." Their own readiness secures the testimony of God’s Word throughout the entire delay period.
 
-2. The Fig Tree and Israel’s Restoration — The parable of the fig tree ties the end directly to Israel. The budding of the fig tree marks the conclusion of the delay: Israel’s restoration signals that the end is very near. Thus, the delay is not indefinite but oriented toward the covenant people’s renewal.
+2. The Fig Tree and Israel’s Restoration (24:32–36) — The parable of the fig tree ties the end directly to Israel. The budding of the fig tree marks the conclusion of the delay: Israel’s restoration signals that the end is very near. Thus, the delay is not indefinite but oriented toward the covenant people’s renewal. However, what is not "known" by the Son nor anyone else, is the time of the fig tree's budding (the start of the tribulation); thus, in the delay period, the disciples should assume that at any point the tribulation could begin, fronted by the the rescue of believers.
 
-3. Instruction for the Tribulation — For those who live into the period itself, the discourse provides a clear roadmap. The “abomination of desolation” signals the beginning of the Great Tribulation. Believers must endure, but they are assured that this climactic anguish will be cut short for the elect.
+3. Instruction for the Tribulation (24:4–31) — For those who live into the period itself, the discourse provides a clear roadmap. The “abomination of desolation” signals the beginning of the Great Tribulation. Believers must endure, but they are assured that this climactic anguish will be cut short for the elect.
 
   
 
