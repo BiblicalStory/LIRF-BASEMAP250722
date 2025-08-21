@@ -21,7 +21,7 @@ NOTICE: The following is a largely-AI generated summary (AIS) of S. Baylis' unpu
 
 Baylis, Samuel Andrew and GPT4/5. "(AIS) The Literary Argument of Deuteronomy." BiblicalStory L-IRF, 2025.
 
-## 📘 Summary of the Argument
+## Summary of the Argument
 
 Deuteronomy is a prophetic retelling and theological re-framing of Israel’s wilderness journey, casting the nation’s story as one of persistent rebellion—met at every turn by divine grace, discipline, and promise. It unfolds in a mirror/ring literary structure, with the center dedicated to the **Assembly of the LORD**—a vision of consecrated community that stands between a holy God and a broken world.
 
@@ -39,7 +39,7 @@ Rather than celebrating legalism or mere national identity, Deuteronomy calls fo
 
   
 
-## 🧭 Unique Contribution in This Location
+## Unique Contribution in This Location
 
   
 
@@ -55,7 +55,7 @@ It reveals that blessing is not the product of obedience sourced in human streng
 
   
 
-## 🔁 Literary Structure
+## Literary Structure
 
   
 
@@ -83,7 +83,7 @@ This structure centers on the **assembly**—a consecrated people through whom G
 
   
 
-## 📚 Full Section Breakdown
+## Full Section Breakdown
 
   
 
@@ -136,11 +136,11 @@ This section directly mirrors the next-to-last section (27–32), where Israel's
   
   
 
-## ✨ Center Section: **Israel as God’s Treasure** (Deut. 14–26)
+## Center Section: **Israel as God’s Treasure** (Deut. 14–26)
 
   
 
-> 📍 *To show that Israel must walk in humility according to the Word of God — not in self-righteousness or idolatry — this central section reveals the purpose of Israel’s consecration: to form the interface between a Holy God and fallen humanity.*
+> *To show that Israel must walk in humility according to the Word of God — not in self-righteousness or idolatry — this central section reveals the purpose of Israel’s consecration: to form the interface between a Holy God and fallen humanity.*
 
   
 
@@ -240,7 +240,7 @@ This isn’t rote ritual — it’s a declaration of dependence. Israel’s bles
 
   
 
-### ✨ Contribution to the Message
+### Contribution to the Message
 
   
 
@@ -297,7 +297,7 @@ Thus, the book closes in tension: the law is still external, the heart still unc
 
   
 
-## 💡 Conclusion
+## Conclusion
 
   
 
@@ -309,7 +309,7 @@ Deuteronomy is the final breath of the Torah, declaring with both sorrow and hop
 
   
 
-## 🔖 Tags
+## Tags
 
   
 
@@ -317,7 +317,7 @@ Deuteronomy is the final breath of the Torah, declaring with both sorrow and hop
 
 
 
-## 📑 Endnotes
+## Endnotes
 
 1. Idolatry and self-righteousness are two sides of the same coin, since if one went to idolatry, they were denying the humility that comes from the tabernacle process (i.e., the faith of Abel) and the uniqueness of access that this God requires through that which is rooted in the Seed.  
 
@@ -357,7 +357,7 @@ Deuteronomy is the final breath of the Torah, declaring with both sorrow and hop
 
 ---
 
-## 📚 Bibliography
+## Bibliography
 
 Baylis, Samuel A. “The Argument of the Book of Deuteronomy.” Class assignment, Dallas Theological Seminary, 2023.
 
