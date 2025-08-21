@@ -77,7 +77,7 @@ Israel’s rejection shifts Jesus into teaching **parables**, like the greater I
 
 - **Wheat & Tares:** Seeds of the Woman and Serpent grow side by side until judgment.
 
-- **Mustard Seed:** The kingdom begins small, not as a cedar empire but as a humble mustard tree of faith in Jesus.
+- **Mustard Seed:** The kingdom during the delay period is not as a cedar tree-reign of the coming Davidic kingdom (Ez. 17) but as a humble mustard tree of faith in Jesus.
 
 - **Leaven:** The kingdom spreads quietly but pervasively through teaching the ancient Word (Ps. 78).
 
