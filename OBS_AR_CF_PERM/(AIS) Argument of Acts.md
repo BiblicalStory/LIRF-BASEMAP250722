@@ -1,6 +1,6 @@
 **(AIS) Argument of Acts**
 *by S. Baylis and GPT-5*
-REV4
+REV5
 
 NOTICE: The following is based on S. Baylis' unpublished Acts Argument as it is an edited AI summary (AIS). This is a computer model to be used in the overall model of the framework and is thus highly experimental. To use this work in your research please cite it in the following manner:
 
@@ -37,8 +37,6 @@ To Theophilus: In accordance with the OT Scriptures and the “sign of Jonah,”
 
 
 ## Endnotes
-
-1. This explanation of the biblical narrative is duplicated from other arguments written by this author.  
 
 2. The concept of “harvest” is implicit in the multiple references to “Pentecost” (Feast of Harvest/Firstfruits, cf. Ex. 23) and the Feast of Unleavened Bread. While often these feasts are thought of in relationship to Passover, it should be noted that even Passover had an agrarian dynamic embedded within it (see Lev. 23:10–11, 15).  
 
