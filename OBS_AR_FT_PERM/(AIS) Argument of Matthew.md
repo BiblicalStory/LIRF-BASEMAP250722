@@ -177,7 +177,7 @@ Matthew shows how the promises of the OT converge in the Shepherd-King:
 
   
 
-Matthew explains how the Righteous King saves a remnant, builds a mustard-tree ecclesia in the delay, and multiplies His righteousness through them until He returns to reign in fullness.
+Matthew explains how the Righteous King saves a remnant, builds a mustard-tree ecclesia in the delay, and multiplies His righteousness through them until He returns to reign as the Davidic Cedar Tree (cf. Ez. 17).
 
   
 
