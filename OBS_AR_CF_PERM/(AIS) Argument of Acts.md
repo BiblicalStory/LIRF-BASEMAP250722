@@ -1,6 +1,6 @@
 **(AIS) Argument of Acts**
 *by S. Baylis and GPT-5*
-REV3
+REV4
 
 NOTICE: The following is based on S. Baylis' unpublished Acts Argument as it is an edited AI summary (AIS). This is a computer model to be used in the overall model of the framework and is thus highly experimental. To use this work in your research please cite it in the following manner:
 
@@ -14,7 +14,7 @@ To Theophilus: In accordance with the OT Scriptures and the “sign of Jonah,”
 ## Narrative Framework
 
 - **Setting (1–3):**  
-  The risen Jesus promises the Spirit’s power so the apostles can be witnesses. Pentecost fulfills the Feast of Harvest, reversing Babel and birthing the new Temple community. Healing the lame man at the temple gate pictures Israel enabled to “walk” in God’s power.  
+  The risen Jesus promises the Spirit’s power so the apostles can be eye-witnesses (witnesses that Jesus fulfilled OT, cf. Lk. 24). Pentecost fulfills the Feast of Harvest, reversing Babel and birthing the new Temple community. Healing the lame man at the temple gate pictures Israel enabled to “walk” in God’s power.  
 
 - **Conflict (4–13):**  
   The temple leaders and Jews resist this new Temple, becoming jealous as Gentiles are drawn in. Stephen’s speech exposes their idolatry and rejection of the Spirit. Paul’s conversion reveals God’s plan to use him as a chosen instrument for the Gentiles. Jewish blasphemy (13:45) crystallizes the rejection.  

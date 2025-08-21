@@ -1,6 +1,6 @@
 **(AIS) Argument of Luke
 *by S. Baylis and GPT-5*
-REV2
+REV3
 
 NOTICE: The following is based on S. Baylis' unpublished Luke Argument as it is an edited AI summary (AIS). This is a computer model to be used in the overall model of the framework and is thus highly experimental. To use this work in your research please cite it in the following manner:
 
@@ -26,7 +26,7 @@ Jesus, the only worthy Israelite, came to identify with unworthy Israel so as to
   Jesus is counted with sinners (which is what the Pharisees DID NOT want to do), dies as greater Abel, rises in vindication, opening Paradise.  
 
 - **Falling Action (24:10–43):**  
-  The risen Jesus fulfills the Scriptures physically; apostles inherit the role of witnesses empowered by the greater Jonah (sign of Jonah).  
+  The risen Jesus fulfills the Scriptures physically; apostles inherit the role of eye-witnesses (witnesses that Jesus fulfilled OT) empowered by the greater Jonah (sign of Jonah).  
 
 - **Resolution (24:44–49):**  
   Apostles clothed with Spirit’s power to proclaim forgiveness to all nations from Jerusalem.  
