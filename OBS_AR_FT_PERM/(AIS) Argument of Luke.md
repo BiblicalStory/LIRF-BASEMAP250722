@@ -19,10 +19,10 @@ Jesus, the only worthy Israelite, came to identify with unworthy Israel so as to
 - **Conflict (4–11):**  
   Israel, in pride, rejects forgiveness and accuses Jesus of Satanic power. The Pharisees become Cain-like; Israel refuses to be light to the nations as old Jonah did.  
 
-- **Rising Action (12–22):**  
+- **Rising Action (12–22:38):**  
   Jesus trains His little flock to endure the delay with humility, mercy, and forgiveness, unlike self-righteous Israel.  
 
-- **Climax (22–24:8):**  
+- **Climax (22:39–24:8):**  
   Jesus is counted with sinners (which is what the Pharisees DID NOT want to do), dies as greater Abel, rises in vindication, opening Paradise.  
 
 - **Falling Action (24:10–43):**  
