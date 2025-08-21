@@ -17,9 +17,13 @@ keywords:
   - greater Moses
   - New Exodus
 ---
-NOTICE: The following is a largely-AI generated summary (AIS) of S. Baylis' unpublished Deuteronomy Argument. This is a computer model to be used in the overall model of the framework and is thus highly experimental. To use this work in your research please cite it in the following manner:  
+
+
+NOTICE: The following is based on S. Baylis' unpublished Deuteronomy Argument as it is an edited AI summary (AIS). This is a computer model to be used in the overall model of the framework and is thus highly experimental. To use this work in your research please cite it in the following manner:  
 
 Baylis, Samuel Andrew and GPT4/5. "(AIS) The Literary Argument of Deuteronomy." BiblicalStory L-IRF, 2025.
+
+
 
 ## Summary of the Argument
 
