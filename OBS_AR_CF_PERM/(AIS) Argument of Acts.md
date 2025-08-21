@@ -1,10 +1,10 @@
 **(AIS) Argument of Acts**
 *by S. Baylis and GPT-5*
-REV2
+REV3
 
-NOTICE: The following is based on S. Baylis' unpublished Luke Argument as it is an edited AI summary (AIS). This is a computer model to be used in the overall model of the framework and is thus highly experimental. To use this work in your research please cite it in the following manner:
+NOTICE: The following is based on S. Baylis' unpublished Acts Argument as it is an edited AI summary (AIS). This is a computer model to be used in the overall model of the framework and is thus highly experimental. To use this work in your research please cite it in the following manner:
 
-Baylis, Samuel Andrew and GPT5. "(AIS) The Literary Argument of Luke." REV. X. BiblicalStory L-IRF, 2025.
+Baylis, Samuel Andrew and GPT5. "(AIS) The Literary Argument of Acts." REV. X. BiblicalStory L-IRF, 2025.
 
 **Message Statement:**  
 To Theophilus: In accordance with the OT Scriptures and the “sign of Jonah,” God’s power through the Jewish apostles and believers is using the rejection of the unbelieving Jews to bring a harvest of Gentiles into the new Temple.  
