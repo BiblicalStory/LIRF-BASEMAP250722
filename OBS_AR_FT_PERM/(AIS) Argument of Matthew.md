@@ -125,7 +125,7 @@ Israel’s rejection shifts Jesus into teaching **parables**, like the greater I
 
 - Delay vs. Tribulation: The parables also instruct the apostles how to shepherd during the **delay period**, not only during future tribulation.
 
-- **Ten Virgins:** Some wait with eternal chesed (goes beyond death, comes from the Word God which does not pass away, Is. 40:8, cf. Matt.24:35), others/Pharisees live for temporal chesed (cf. Is. 5, 40:6, comes from natural world).
+- **Ten Virgins:** Some wait with eternal chesed (goes beyond death, comes from the Word God which does not pass away, Is. 40:8, cf. Matt.24:35), others/Pharisees live for temporal chesed (cf. Is. 5:19, 40:6, comes from natural world).
 
 - **Talents:** The gospel of the kingdom (Word of God) has divine, multiplying power; stewards must invest it.
 
