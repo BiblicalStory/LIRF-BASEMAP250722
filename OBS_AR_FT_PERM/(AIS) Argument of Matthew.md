@@ -73,7 +73,7 @@ Israel’s rejection shifts Jesus into teaching **parables**, like the greater I
 
 **Discourse 3 (13): Parables of the Kingdom**
 
-- **Sower:** The Word/Seed (fulfilled in Jesus) meets different soils; persecution and worldly cares choke many, but good soil bears fruit.
+- **Sower:** The Word/Seed (from the OT, fulfilled in Jesus, then later carried by the apostles) meets different soils; persecution and worldly cares choke many, but good soil bears fruit.
 
 - **Wheat & Tares:** Seeds of the Woman and Serpent grow side by side until judgment.
 
