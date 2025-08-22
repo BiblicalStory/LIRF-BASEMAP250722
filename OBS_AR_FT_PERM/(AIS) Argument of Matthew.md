@@ -2,7 +2,7 @@
 
 *Samuel Andrew Baylis & GPT-5*
 
-REV: 4
+REV: 5
 
 ---
 
@@ -209,11 +209,7 @@ Thus, the Olivet Discourse both summarizes and crowns the rising action: the apo
 
 ## Endnotes
 
-  
 
-[^1]: This explanation of the biblical narrative is duplicated from other arguments written by this author.
-
-  
 
 [^2]: Note that Isaiah 12 forms a conclusion to the section Isaiah 7–12 which is about the cutting off of the people and the ultimate deliverance by the Branch.
 
