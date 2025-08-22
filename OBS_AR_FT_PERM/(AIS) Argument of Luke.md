@@ -14,10 +14,10 @@ Jesus, the only worthy Israelite, came to identify with unworthy Israel so as to
 ## Narrative Framework
 
 - **Setting (1–3):**  
-  Jesus, Son of God/Adam/David, comes as salvation to the humble. John the Baptist as OT witness, Jesus as fulfillment.  
+  Jesus, Son of God/Adam/David, comes as salvation to the humble. John the Baptist as OT witness (greater Elijah), Jesus as fulfillment (greater Elisha).  
 
 - **Conflict (4–11):**  
-  Israel, in pride, rejects forgiveness and accuses Jesus of Satanic power. The Pharisees become Cain-like; Israel refuses to be light to the nations as old Jonah did.  
+  Israel, in pride, rejects forgiveness and accuses Jesus (greater Elisha, see Baylis, https://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/Elijah_Elisha_Luke_Thesis_Baylis_1985.pdf) of Satanic power. The Pharisees become Cain-like; Israel refuses to be light to the nations as old Jonah did.  
 
 - **Rising Action (12–22:38):**  
   Jesus trains His little flock to endure the delay with humility, mercy, and forgiveness, unlike self-righteous Israel.  
