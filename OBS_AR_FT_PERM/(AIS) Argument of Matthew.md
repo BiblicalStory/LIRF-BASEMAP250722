@@ -157,7 +157,7 @@ The apostles worship in Galilee while Israel conspires with Gentiles to deny the
 
 ### VII. Denouement (28:18–20)
 
-The risen King sends His apostles to make disciples of all nations. The remnant becomes fruitful Israel, multiplying the righteousness of Jesus among the nations until His return.
+The risen King sends His Galilean (Is. 9) apostles to make disciples of all nations. The remnant becomes fruitful Israel, multiplying the righteousness of Jesus among the nations until His return.
 
   
 
