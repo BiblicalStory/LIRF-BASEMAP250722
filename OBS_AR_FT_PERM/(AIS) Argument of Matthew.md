@@ -80,6 +80,8 @@ Israel’s rejection shifts Jesus into teaching **parables**, like the greater I
 - **Mustard Seed:** The kingdom during the delay period is not as a cedar tree-reign of the coming Davidic kingdom (Ez. 17) but as a humble mustard tree of faith in Jesus.
 
 - **Leaven:** The kingdom spreads quietly but pervasively through teaching the ancient Word (Ps. 78).
+  
+- **Wheat and Tares (inclusio):** Jesus returns to the wheat and the tares to bracket the mustard seed and the leaven; these growing entities would grow in the midst of unbelievers (in the very "gates of hell" cf. 16)
 
 - **Treasure & Pearl:** God would sell everything to purchase His treasure, Israel. The pearl is "totally diiferent in its valuation and characteristics."
 
