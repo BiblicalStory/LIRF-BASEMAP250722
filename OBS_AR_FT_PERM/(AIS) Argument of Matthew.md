@@ -45,7 +45,7 @@ Jesus is introduced as the promised Seed — the new Adam and Son of David — b
 
 - **Isaiah 9:** The “great light” dawns on Zebulun and Naphtali. Jesus begins His ministry in Galilee of the Gentiles, calling fishermen from this region to be His first disciples. These Galilean disciples become the nucleus of the remnant, trained to carry the message to all nations.
 
-- **Discourse 1 (5–7):** Sermon on the Mount — true righteousness is found only in Jesus, the Righteous One.
+- **Discourse 1 (5–7):** Sermon on the Mount — true righteousness is found only in Jesus, the Righteous One. This righteousness is obtained by first hungering and thirsting for it and then asking and receiving in humility.
 
 - **Development (8–9):** Jesus cleanses the unclean, forgives sins, and demonstrates mercy greater than Jonah by extending deliverance even to Gentiles.
 
