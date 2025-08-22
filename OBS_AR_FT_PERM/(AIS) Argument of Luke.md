@@ -35,6 +35,28 @@ Jesus, the only worthy Israelite, came to identify with unworthy Israel so as to
   Jesus ascends, completing the Exodus; apostles wait in temple for Spirit, leading seamlessly into Acts.  
 
 
+## Excursus: Eschatology in Luke (Luke 17; 21)
+
+Luke presents eschatology through two distinct but complementary lenses: the **immediacy of the Son of Man’s return** (Luke 17) and the **panoramic sweep of the inter-advent age** (Luke 21).
+
+### 1. Luke 17: The Immediacy of Return
+- Addressed to the “little flock” (12:32, the training of the "little flock" is the rising action as well as the immediate context of ch. 17, cf. 17:1–4), Jesus warns that the Son of Man’s day will come suddenly, like lightning.  
+- The analogies of Noah and Lot emphasize that life will appear normal, until sudden preservation divides the remnant from the judged.  
+- Those “taken” are best seen as those preserved, since in both Noah and Lot, the departing are the saved (see also, Bock and Simpson, *Jesus According to Scripture*, 389). Those left are consumed, symbolized by vultures gathering over corpses (cf. Ezekiel 38—39).  
+- This passage thus underscores the **rapture-like immediacy** of Jesus’ return: the remnant must always be ready to be delivered suddenly from judgment.
+
+### 2. Luke 21: The Age of Waiting and Witness
+- Here the focus broadens: from Jesus’ ascension until His bodily return, the “little flock” will endure a span of difficulty, persecution, and delay.  
+- The destruction of Jerusalem (A.D. 70) is portrayed as both judgment and foreshadowing of the larger period of delay.  
+- This aligns with Peter’s testimony in Acts 3:21, that heaven must receive Christ “until the period of restoration.”  
+- Thus Luke 21 situates the church’s witness in a **long horizon of endurance**, while still pressing toward the climactic return of the Son of Man.
+
+---
+
+Together, Luke 17 and 21 form a coherent eschatological voice:
+- The “little flock” must live with **imminent expectation** (17) while also persevering through the **extended delay** (21).  
+- The Son of Man will come suddenly, but also certainly, at the end of the age.
+
 # Endnotes and Bibliography  
 
 
@@ -73,8 +95,12 @@ Jesus, the only worthy Israelite, came to identify with unworthy Israel so as to
 - Baylis, Charles P. “Luke Commentary: Luke 1:1–3:23.” *BiblicalStory.* 2015. http://thebiblicalstory.org/baylis/wp-content/uploads/2015/06/LukeLec1to4060915.pdf.  
 
 - Baylis, Samuel A. “The Argument of the Book of Mark.” Coursework Assignment, 2023. Dallas Theological Seminary.  
+  
+- Baylis, Samuel A. “Biblical Theology of Luke–Acts: The Very Present Help.” Unpublished Paper, 2023. BE8221 Seminar on the Gospels and Acts, Dallas Theological Seminary.
 
 - Baylis, Samuel A. “Position Paper: Divorce and Remarriage.” Unpublished Paper, 2023. BE8221 Seminar in the Gospels and Acts, Dallas Theological Seminary.  
+  
+- Bock, Darrell L., and Benjamin I. Simpson. _Jesus According to Scripture_. Grand Rapids, MI: Baker Academic, 2017. Originally published as 2002.
 
 ---
 
