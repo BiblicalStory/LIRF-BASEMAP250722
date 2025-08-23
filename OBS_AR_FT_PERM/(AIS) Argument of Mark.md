@@ -17,17 +17,17 @@ The gospel of Mark proclaims that the eternal Word with authority—fulfilled in
 
 ### I. Setting (1–2)
 - Jesus is introduced as the Isaianic Servant, the Word with authority, inaugurating the new Exodus.  
-- His authority extends from teaching to healing, forgiving sins, and redefining Sabbath rest.  
+- His authority extends from teaching to healing, forgiving sins, and fulfilling Sabbath rest (cf. Ex. 31:13).  
 - The people marvel, while leaders begin to question.  
 
-**Contribution:** Establishes Jesus as the fulfillment of Isaiah 40, the eternal Word that never fades, and introduces the conflict with Jewish leadership.
+**Contribution:** Establishes Jesus as the fulfillment of Isaiah 40, the eternal restful Word that never fades, and introduces the conflict with Jewish leadership.
 
 ---
 
 ### II. Conflict (3:1–30)
 - Leaders reject Jesus, plotting His death and accusing Him of operating by Beelzebul.  
 - In contrast, Jesus appoints a remnant of twelve to be with Him and to proclaim the Word.  
-- These form the new family: those who do the will of God.  
+- These form the new family in "the house": those who do the will of God.  
 
 **Contribution:** Frames Israel’s rejection as the setting for a Spirit-empowered remnant to emerge.
 
@@ -37,10 +37,23 @@ The gospel of Mark proclaims that the eternal Word with authority—fulfilled in
 - Jesus demonstrates that God’s will is accomplished through His Word and Spirit alone, not through external identity, ritual purity, wealth, or temple structures.  
 - The disciples, though weak, are drawn into a new family shaped by humble service.  
 - Images of growth (mustard seed, crops, bread multiplication) portray the mysterious expansion of God’s kingdom.  
-- Geography underscores mission: Galilee as the light for the nations, the Via Maris as pathway to Gentiles, journeys to Tyre and Gennesaret signaling outward movement.  
+- Geography underscores mission: Galilee as the light for the nations, the Via Maris as pathway to Gentiles (cf. Is. 9, the "Way of the Sea, Galilee of the Gentiles"), journeys to Tyre and Gennesaret signaling outward movement.  
 - The temple is exposed as corrupt and destined to fall, with a new community arising in its place.  
 
 **Contribution:** Illustrates that the Servant accomplishes salvation alone, yet forms a community that will carry His Word into the world.
+
+**EXCURSIS: Eschatology in Mark** **(S. Baylis direct authored)**
+
+Mark's eschatological layout is very similar but compacted in relationship to Matthew's (Matt. 24). 
+
+Jesus' discourse is laid out in Mark in the following way in response to the disciples' question "Tell us, when will these things be, and what will be the sign when all these things are going to be fulfilled?"
+
+The direct answer to this question is that there will be an increase of "war, famine and death" (cf. Lev. 26, Deut. 28, Rev. 7) which leads right into the abomination of desolation, which is when the reader should *really* get out of town because that is going to be the GREAT tribulation (13:5-31). 
+
+The above (13:5–31) is the SIGN (in answer to their question), and this sign is the budding fig tree of Israel's return to God in Jesus, the Word from the OT which is the purpose of the 1st half of Daniel's 70th week (the tribulation).
+
+Next, Jesus tells them (13:32–37) WHEN (in answer to their question), and he tells them that no one knows when this period will begin, so they should be on the alert, but once it starts happening (the fig tree budding), the present generation (at that time) will not pass away before it is all concluded. 
+
 
 ---
 
