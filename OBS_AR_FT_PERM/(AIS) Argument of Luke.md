@@ -1,6 +1,6 @@
 **(AIS) Argument of Luke
 *by S. Baylis and GPT-5*
-REV5
+REV6
 
 NOTICE: The following is based on S. Baylis' unpublished Luke Argument as it is an edited AI summary (AIS). This is a computer model to be used in the overall model of the framework and is thus highly experimental. To use this work in your research please cite it in the following manner:
 
@@ -45,16 +45,15 @@ Luke presents eschatology through two distinct but complementary lenses: the **i
 - Those “taken” are best seen as those preserved, since in both Noah and Lot, the departing are the saved (see also, Bock and Simpson, *Jesus According to Scripture*, 389). Those left are consumed, symbolized by vultures gathering over corpses (cf. Ezekiel 38—39).  
 - This passage thus underscores the **rapture-like immediacy** of Jesus’ return: the remnant must always be ready to be delivered suddenly from judgment.
 
-### 2. Luke 21: The Age of Waiting and Witness
-- Here the focus broadens: from Jesus’ ascension until His bodily return, the “little flock” will endure a span of difficulty, persecution, and delay.  
-- The destruction of Jerusalem (A.D. 70) is portrayed as both judgment and foreshadowing of the larger period of delay.  
-- This aligns with Peter’s testimony in Acts 3:21, that heaven must receive Christ “until the period of restoration.”  
-- Thus Luke 21 situates the church’s witness in a **long horizon of endurance**, while still pressing toward the climactic return of the Son of Man.
+### 2. Luke 21: The Tribulation Period
+- Similar to Matthew 24 and Mark 13, the disciples ask Jesus when will be the sign that the return is soon? 
+- Jesus' answer is effectively the same as it is in Matthew and Mark, that there will be a first period leading up to the abomination of desolation (21:8–23) (halfway through the tribulation), and then there will be the "great tribulation" (21:25–33, cf. Dan. 12:1, Jer. 30:7); at that time there will be dramatic signs in the heavens. 
+- Then, in 21:34–36, Jesus gives a general warning for them to be on guard, which mirrors His instructions in Luke 17, and even provides the hint of escape, which Luke 17 also would seem to hint at. Interestingly, Jesus' words here are mirrored by Paul's message in 1st Thessalonians, where Paul describes an escape from the Day of the LORD which is coming "like a thief" (corresponding to Amos 5). As Luke is the closest we have to a "Gospel of Paul," this is a compelling parallel. 
 
 ---
 
 Together, Luke 17 and 21 form a coherent eschatological voice:
-- The “little flock” must live with **imminent expectation** (17) while also persevering through the **extended delay** (21).  
+- The “little flock” must live with **imminent expectation** (17) during this period and intense perseverance for those who will find themselves in the tribulation (21).  
 - The Son of Man will come suddenly, but also certainly, at the end of the age.
 
 # Endnotes and Bibliography  
