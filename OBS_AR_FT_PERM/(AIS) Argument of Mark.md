@@ -42,15 +42,17 @@ The gospel of Mark proclaims that the eternal Word with authority—fulfilled in
 
 **Contribution:** Illustrates that the Servant accomplishes salvation alone, yet forms a community that will carry His Word into the world.
 
+
+
 **EXCURSIS: Eschatology in Mark** **(S. Baylis direct authored)**
 
 Mark's eschatological layout is very similar but compacted in relationship to Matthew's (Matt. 24). 
 
 Jesus' discourse is laid out in Mark in the following way in response to the disciples' question "Tell us, when will these things be, and what will be the sign when all these things are going to be fulfilled?"
 
-The direct answer to this question is that there will be an increase of "war, famine and death" (cf. Lev. 26, Deut. 28, Rev. 7) which leads right into the abomination of desolation, which is when the reader should *really* get out of town because that is going to be the GREAT tribulation (13:5-31). 
+The direct answer to this question (the SIGN) is that there will be an increase of "war, famine and death" (cf. Lev. 26, Deut. 28, Rev. 7, 1st half of Daniel's 70th week) which leads right into the abomination of desolation (the time of the seventh seal in Revelation), which is when the reader should *really* get out of town because that is going to be the GREAT tribulation (2nd half of Daniel's 70th week, 13:5-31). 
 
-The above (13:5–31) is the SIGN (in answer to their question), and this sign is the budding fig tree of Israel's return to God in Jesus, the Word from the OT which is the purpose of the 1st half of Daniel's 70th week (the tribulation).
+The above (13:5–31) is the SIGN (in answer to their question) of the end (the tribulation/70th Week of Daniel), and this sign is the budding fig tree of Israel's return to God in Jesus, the Word from the OT — this return is the purpose of the 1st half of Daniel's 70th week.
 
 Next, Jesus tells them (13:32–37) WHEN (in answer to their question), and he tells them that no one knows when this period will begin, so they should be on the alert, but once it starts happening (the fig tree budding), the present generation (at that time) will not pass away before it is all concluded. 
 
@@ -76,16 +78,16 @@ Next, Jesus tells them (13:32–37) WHEN (in answer to their question), and he t
 ---
 
 ### VI. Resolution (16:14–19)
-- Jesus commissions the disciples to carry the gospel into the world.  
+- Jesus commissions the disciples to carry the gospel (the Word with authority) into the world.  
 - Their proclamation is confirmed by signs, and salvation is marked by Spirit-baptism.  
-- The ascended Christ, seated at God’s right hand, is now the source of ongoing authority.  
+- The ascended Christ, seated at God’s right hand, is now the source of ongoing authority (Ps. 110 fulfilled).  
 
-**Contribution:** Balances the setting—just as Jesus embodied the Word with authority, now His disciples carry it forward under His reign.
+**Contribution:** Balances the setting—just as Jesus embodied the Word with authority, now His disciples carry it forward under His Melchizedekian priesthood (Ps. 110).
 
 ---
 
 ### VII. Denouement (16:20)
-- The disciples preach the imperishable proclamation, producing eternal salvation.  
+- The disciples preach the imperishable proclamation (the Word with authority), producing eternal salvation.  
 - The Lord works with them, confirming the Word by signs.  
 
 **Contribution:** The gospel continues as the Word with authority, extending the new Exodus to all nations.
