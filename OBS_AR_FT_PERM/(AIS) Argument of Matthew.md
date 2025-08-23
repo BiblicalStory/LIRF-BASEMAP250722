@@ -12,7 +12,7 @@ NOTICE: The following is based on S. Baylis' unpublished Matthew Argument as it 
 
   
 
-Baylis, Samuel Andrew and GPT5. "(AIS) The Literary Argument of Matthew." BiblicalStory L-IRF, 2025.
+Baylis, Samuel Andrew and GPT5. "(AIS) The Literary Argument of Matthew." BiblicalStory L-IRF, REV X. 2025.
 
   
   
