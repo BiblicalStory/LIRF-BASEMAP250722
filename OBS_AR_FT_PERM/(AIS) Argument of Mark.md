@@ -106,7 +106,7 @@ Next, Jesus tells them (13:32–37) WHEN (in answer to their question), and he t
     
 5. S. M. Kraeger, “Gerasenes,” in _The Lexham Bible Dictionary_, ed. David Bomar, John D. Barry, Derek R. Brown, Rachel Klippenstein, Douglas Mangum, Carrie Sinclair Wolcott, Lazarus Wentz, Elliot Ritzema, and Wendy Widder (Bellingham, WA: Lexham Press, 2016).
     
-6. Baylis ponts out that Jesus appearing with Moses and Elijah indicates that He is superior and the end of all of the OT prophets. See Baylis, “The Book of Mark.”
+6. Baylis points out that Jesus appearing with Moses and Elijah indicates that He is superior and the end of all of the OT prophets. See Baylis, “The Book of Mark.”
     
 7. That the Gentile centurion's confession is parallel to Peter's was pointed out to this author by S. Kim.
     
