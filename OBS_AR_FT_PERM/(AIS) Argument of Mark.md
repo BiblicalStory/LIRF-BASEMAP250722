@@ -27,7 +27,7 @@ The gospel of Mark proclaims that the eternal Word with authority—fulfilled in
 ### II. Conflict (3:1–30)
 - Leaders reject Jesus, plotting His death and accusing Him of operating by Beelzebul.  
 - In contrast, Jesus appoints a remnant of twelve to be with Him and to proclaim the Word.  
-- These form the new family in "the house": those who do the will of God.  
+- These form the new family in "the house": those who do the will of God (faith in the Word with authority and spread it to others).  
 
 **Contribution:** Frames Israel’s rejection as the setting for a Spirit-empowered remnant to emerge.
 
