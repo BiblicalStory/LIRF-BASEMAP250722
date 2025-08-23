@@ -48,13 +48,14 @@ Luke presents eschatology through two distinct but complementary lenses: the **i
 ### 2. Luke 21: The Tribulation Period
 - Similar to Matthew 24 and Mark 13, the disciples ask Jesus when will be the sign that the return is soon? 
 - Jesus' answer is effectively the same as it is in Matthew and Mark, that there will be a first period leading up to the abomination of desolation (21:8–23) (halfway through the tribulation), and then there will be the "great tribulation" (21:25–33, cf. Dan. 12:1, Jer. 30:7); at that time there will be dramatic signs in the heavens. 
-- Then, in 21:34–36, Jesus gives a general warning for them to be on guard, which mirrors His instructions in Luke 17, and even provides the hint of escape, which Luke 17 also would seem to hint at. Interestingly, Jesus' words here are mirrored by Paul's message in 1st Thessalonians, where Paul describes an escape from the Day of the LORD which is coming "like a thief" (corresponding to Amos 5). As Luke is the closest we have to a "Gospel of Paul," this is a compelling parallel. 
+- Then, in 21:34–36, Jesus gives a general warning for them to be on guard during the age of delay, which mirrors His instructions in Luke 17, and even provides the hint of escape from the tribulation, which Luke 17 also would seem to hint at. Furthermore, Jesus' words here are mirrored by Paul's message in 1st Thessalonians, where Paul describes an escape from the Day of the LORD which is coming "like a thief" (corresponding to Amos 5). As Luke is the closest we have to a "Gospel of Paul," this is a compelling parallel. 
 
 ---
 
 Together, Luke 17 and 21 form a coherent eschatological voice:
 - The “little flock” must live with **imminent expectation** (17) during this period and intense perseverance for those who will find themselves in the tribulation (21).  
-- The Son of Man will come suddenly, but also certainly, at the end of the age.
+- The Son of Man will come suddenly, but also certainly, at the end of the age. His full coming will be preceded by the 7-year tribulation period, which is Daniel's 70th week (described in 21).
+- Believers during this age should have the expectation of an imminent taking away where they will stand before the Son of Man as an escape from the Tribulation. These are the ones Paul calls "of the day" and not "of the night" (cf. 1st Thess. 5:5).
 
 # Endnotes and Bibliography  
 
