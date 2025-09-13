@@ -1,4 +1,4 @@
-**(AIS) Argument of Luke
+**(AIS) Argument of John
 *by S. Baylis and GPT-5*
 REV1
 
