@@ -6,6 +6,8 @@ NOTICE: The following is based on S. Baylis' unpublished Luke Argument as it is 
 
 Baylis, Samuel Andrew and GPT5. "(AIS) The Literary Argument of Luke." REV X. BiblicalStory L-IRF, 2025.
 
+[[ANCHOR — OBS_AR_FT_PERM]]
+
 **Message Statement:**  
 Jesus, the only worthy Israelite, came to identify with unworthy Israel so as to bring forgiveness of sins in the New Covenant through the forgiven apostles to all nations who recognize their need for it.  
 

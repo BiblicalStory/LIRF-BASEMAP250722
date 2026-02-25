@@ -6,8 +6,9 @@ NOTICE: The following is based on S. Baylis' unpublished John Argument as it is 
 
 Baylis, Samuel Andrew and GPT5. "(AIS) The Literary Argument of John." REV X. BiblicalStory L-IRF, 2025.
 
+[[ANCHOR — OBS_AR_FT_PERM]]
 
-
+@@john upper room
 
 
 # Argument Summary of John

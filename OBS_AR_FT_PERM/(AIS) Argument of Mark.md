@@ -7,7 +7,7 @@ NOTICE: The following is based on S. Baylis' unpublished Mark Argument as it is 
 
 Baylis, Samuel Andrew and GPT5. "(AIS) The Literary Argument of Mark." REV X. BiblicalStory L-IRF, 2025.
 
-
+[[ANCHOR — OBS_AR_FT_PERM]]
 ## Message Statement
 The gospel of Mark proclaims that the eternal Word with authority—fulfilled in Jesus the Servant through His death, resurrection, and ascension—is now entrusted to the disciples, who by the Spirit (by the ascended Ps. 110 Melchizedekian priest) carry the imperishable proclamation for eternal salvation.
 

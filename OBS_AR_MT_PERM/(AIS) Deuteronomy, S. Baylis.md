@@ -18,6 +18,8 @@ keywords:
   - New Exodus
 REV: E
 ---
+[[ANCHOR — OBS_AR_MT_PERM]]
+[[ANCHOR — OBS_AR_SM_PERM]]
 
 
 NOTICE: The following is based on S. Baylis' unpublished Deuteronomy Argument as it is an edited AI summary (AIS). This is a computer model to be used in the overall model of the framework and is thus highly experimental. To use this work in your research please cite it in the following manner:  

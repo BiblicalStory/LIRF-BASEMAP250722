@@ -3,6 +3,7 @@
 *by S. Baylis/GPT5
 ---
 REV1
+[[ANCHOR — OBS_AR_TS_PERM]]
 
 ## Message of the Book  
 
@@ -58,7 +59,7 @@ The LORD no longer dwells in Jerusalem but will magnify Himself (38:23) by sanct
 - **Frame:** Opens with Sabbath theology (20) and closes with sanctuary-in-their-midst (37:28).  
 - Sabbath = the sign of God’s sanctifying work through Exodus.  
 - Themes: new heart (36), resurrection (37), and sanctification reversing defilement.  
-- **Climax:** Gog and Magog (38–39) = the eschatological conclusion, where exalted nations are brought low and the LORD is sanctified through restored Israel.  
+- **Climax:** Gog and Magog (38—39) = the eschatological conclusion, where exalted nations are brought low and the LORD is sanctified through restored Israel.  
 
 ---
 
