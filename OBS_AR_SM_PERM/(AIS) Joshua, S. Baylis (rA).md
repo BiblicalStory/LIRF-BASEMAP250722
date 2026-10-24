@@ -1,6 +1,6 @@
 # **The Literary Argument of the Book of Joshua**
 
-**NOTICE:** The following is based on S. Baylis’ unpublished Deuteronomy Argument as it is an edited AI summary (AIS). This is a computer model to be used in the overall model of the framework and is thus highly experimental. To use this work in your research please cite it in the following manner:
+**NOTICE:** The following is based on S. Baylis’ unpublished Joshua Argument as it is an edited AI summary (AIS). This is a computer model to be used in the overall model of the framework and is thus highly experimental. To use this work in your research please cite it in the following manner:
 
 Baylis, Samuel Andrew and GPT4/5. “(AIS) The Literary Argument of Joshua” REV X. BiblicalStory L-IRF, 2026.
 
@@ -91,7 +91,7 @@ Despite Israel’s failures, God still fights for them. He listens to Joshua’s
 
 The stopping of the sun and moon demonstrates God’s continued desire to rule creation through human images. Joshua’s flawed voice still moves heaven.
 
-Caleb becomes the prototype of faithful Israel. While others hesitate, Caleb trusts God and receives Hebron. The boldness of Achsah and the daughters of Zelophehad foreshadow the increasing faithfulness of the women in the increasing faithlessness of men which is a theme that carries into Judges (this is opposite of the expectation of a faithful male Seed).
+Caleb becomes the prototype of faithful Israel. While others hesitate, Caleb trusts God and receives Hebron. The boldness of Achsah and the daughters of Zelophehad foreshadow the increasing faithfulness of the women in the increasing faithlessness of men which is a theme that carries into Judges (this is opposite of the expectation of a faithful male Seed). The boldness of Achsah and the daughters of Zelophehad foreshadow the increasing faithfulness of the women in the increasing faithlessness of men which is a theme that carries into Judges (this is opposite of the expectation of a faithful male Seed).
 
 The inheritance is distributed not because of Israel’s righteousness (Deut. 9:4), but because of God’s faithfulness.
 

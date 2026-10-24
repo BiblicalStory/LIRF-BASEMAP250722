@@ -5,7 +5,7 @@
 [[ANCHOR — OBS_AR_SM_PERM]]
 
 ---
-
+@@
 ## **Message of the Book**
 
 **While Israel and her kings have proven sinful and incapable of fulfilling God’s purposes, the LORD will ultimately fulfill His covenant lovingkindness through the promised Seed of David—a King-Priest forever according to the order of Melchizedek—who will lead God’s people in a new and eternal Exodus to Zion, establishing God’s kingdom and causing everlasting praise to resound among all nations.**[^1]
