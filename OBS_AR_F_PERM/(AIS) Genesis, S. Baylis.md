@@ -32,7 +32,7 @@ Life comes from God, and the Tree of Life provides for its continuance (Gen. 2:7
 
 ### **Blessing and Mediation**
 
-God’s blessing brings life and fruitfulness. After humanity’s failure, Genesis repeatedly shows that His provision comes through another: Noah provides refuge, Melchizedek blesses Abraham, and Joseph preserves his family and the nations. These temporary provisions prepare the reader to expect the ultimate deliverer through whom God will restore His people. C. Baylis has defined true blessing as "the knowledge of God."
+After humanity’s failure, Genesis repeatedly shows that His provision comes through another: Noah provides refuge, Melchizedek blesses Abraham, and Joseph preserves his family and the nations. These temporary provisions prepare the reader to expect the ultimate deliverer through whom God will restore His people. C. Baylis has defined true blessing as "the knowledge of God."
 
 ---
 
